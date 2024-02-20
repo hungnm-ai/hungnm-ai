@@ -1,10 +1,3 @@
-<!-- <img alt="avatar" src="https://raw.githubusercontent.com/ayaderaghul/ayaderaghul/c5b39d4d7e7c5f64f3d5c41e20077020c4c4a3de/ReadyPlayerMe-Avatar.jpeg" style="width:40%;height=40%"> -->
-<br>
-<div style="text-align: center; padding-top: 20px; padding-bottom: 20px">
-    <img style="width:200px;height:200px; border-radius: 50%" alt="avatar" src="./assets/avatar.png">
-    <h3 style="margin-top: 0">Hung Nguyen</h3>
-</div>
-<hr>
 
 <h3> About me</h3>
 
@@ -18,23 +11,32 @@
 
 <h3>👨‍💻 Programming Languages and Frameworks</h3>
 
+
 <p>
-    <span style="background: #ee4c2c; padding: 4px 12px; border-radius: 3px; color: #fff">Pytorch</span>
-    <span style="background: #319adf; padding: 4px 12px; border-radius: 3px; color: #fff; margin: 4px">Python</span>
-    <span style="background: #fad220; padding: 4px 12px; border-radius: 3px; color: #fff; margin: 4px">Transformers</span>
-    <span style="background: #836FFF; padding: 4px 12px; border-radius: 3px; color: #fff; margin: 4px">scikit-learn</span>
-    <span style="background: #00ccb8; padding: 4px 12px; border-radius: 3px; color: #fff; margin: 4px">FastAPI</span>
-    <span style="background: #0d6efd; padding: 4px 12px; border-radius: 3px; color: #fff; margin: 4px">Pandas</span>
-    <span style="background: #09a4d7; padding: 4px 12px; border-radius: 3px; color: #fff; margin: 4px">SpaCy</span>
-    <span style="background: #7a8e95; padding: 4px 12px; border-radius: 3px; color: #fff; margin: 4px">...</span>
-    
+    <img alt="python" src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54">
+    <img alt="HTML" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white">
+    <img alt="HTML" src="https://img.shields.io/badge/flask-%23000.svg?logo=flask&logoColor=white">
+    <img alt="HTML" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white">
+    <img alt="HTML" src="https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white">
+    <img alt="HTML" src="https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white">
 </p>
+
+
+<h3>⛁ Database</h3>
+
+
+<p>
+    <img alt="python" src="https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white">
+    <img alt="HTML" src="https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white">
+    <img alt="HTML" src="https://img.shields.io/badge/-ElasticSearch-005571?logo=elasticsearch">
+</p>
+
 
 
 <h3>📫 Connect with Me</h3>
 <p>
-<a href="https://www.linkedin.com/in/hungnm-ai/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;"></a>
-<a href="#" rel="nofollow"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" data-canonical-src="https://img.shields.io/badge/-StackOverFLow-0077b5?&amp;logo=StackOverFlow&amp;logoColor=white&color=orange" style="max-width: 100%;"></a>
-<a href="#" rel="nofollow"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" data-canonical-src="https://img.shields.io/badge/-Twitter-0077b5?&amp;logo=Twitter&amp;logoColor=white&color=informational" style="max-width: 100%;"></a>
+    <img alt="python" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img alt="HTML" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+    <img alt="HTML" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </p>
 
