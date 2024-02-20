@@ -22,21 +22,28 @@
 </p>
 
 
-<h3>⛁ Database</h3>
+<h3>⛁ Databases</h3>
 
 
 <p>
     <img alt="python" src="https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white">
     <img alt="HTML" src="https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white">
     <img alt="HTML" src="https://img.shields.io/badge/-ElasticSearch-005571?logo=elasticsearch">
+    <img alt="HTML" src="https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white">
 </p>
 
+<h3>🎛️ Operating System</h3>
+<p>
+    <img alt="python" src="https://img.shields.io/badge/mac%20os-000000?logo=macos&logoColor=F0F0F0">
+    <img alt="HTML" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white">
+</p>
 
 
 <h3>📫 Connect with Me</h3>
 <p>
-    <img alt="python" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-    <img alt="HTML" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-    <img alt="HTML" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+    <img alt="python" src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white">
+    <img alt="HTML" src="https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white">
+    <img alt="HTML" src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white">
+    <img alt="HTML" src="https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white">
 </p>
 
