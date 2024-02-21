@@ -1,11 +1,12 @@
-
 <h3> About me</h3>
 
 * 👋 Hi there, My name is Hung
 
-* 👀 I'm passionate about Artificial Intelligence (AI) and Natural Language Processing (NLP). With 5 years of experience, I've had the opportunity to research and develop a wide array of fascinating projects.
+* 👀 I'm passionate about Artificial Intelligence (AI) and Natural Language Processing (NLP). With 5 years of experience,
+  I've had the opportunity to research and develop a wide array of fascinating projects.
 
-* 🌱 In my journey, I've handled a diverse range of problems, from sentiment analysis, named entity recognition, question answering, and text generation to emerging techniques like Large Language Models (LLMs).
+* 🌱 In my journey, I've handled a diverse range of problems, from sentiment analysis, named entity recognition, question
+  answering, and text generation to emerging techniques like Large Language Models (LLMs).
 
 * 💞️ I’m looking to collaborate
 
@@ -41,9 +42,8 @@
 
 <h3>📫 Connect with Me</h3>
 <p>
-    <img alt="python" src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white">
-    <img alt="HTML" src="https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white">
-    <img alt="HTML" src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white">
-    <img alt="HTML" src="https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white">
+    <a href="https://www.linkedin.com/in/hungnm-ai/"><img alt="python" src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+    <a href="mailto:hungmanh.hust@gmail.com"><img alt="HTML" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
+    <a href="https://telegram.me/hungnmai"><img alt="HTML" src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white"></a>
 </p>
 
