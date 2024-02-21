@@ -20,6 +20,11 @@
     <img alt="HTML" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white">
     <img alt="HTML" src="https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white">
     <img alt="HTML" src="https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white">
+    <img alt="HTML" src="https://img.shields.io/badge/FastAPI-009688?logo=FastAPI&logoColor=white">
+    <img alt="HTML" src="./assets/transformers.svg">
+    <img alt="HTML" src="./assets/langchain.svg">
+    <img alt="HTML" src="./assets/llamaindex.svg">
+
 </p>
 
 
@@ -31,6 +36,9 @@
     <img alt="HTML" src="https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white">
     <img alt="HTML" src="https://img.shields.io/badge/-ElasticSearch-005571?logo=elasticsearch">
     <img alt="HTML" src="https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white">
+    <img alt="HTML" src="./assets/qdrant.svg">
+    <img alt="HTML" src="./assets/milvus.svg">
+
 </p>
 
 <h3>🎛️ Operating System</h3>
