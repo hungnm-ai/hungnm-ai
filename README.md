@@ -10,20 +10,36 @@
 
 * 💞️ I’m looking to collaborate
 
+<h3>‍🛠️ Working Domain</h3>
+
+
+<p>
+    <img alt="HTML" src="./assets/ml.svg">
+    <img alt="HTML" src="./assets/dl.svg">
+    <img alt="HTML" src="./assets/nlp.svg">
+    <img alt="HTML" src="./assets/ds.svg">
+    <img alt="HTML" src="./assets/se.svg">
+</p>
+
+
 <h3>👨‍💻 Programming Languages and Frameworks</h3>
 
 
 <p>
     <img alt="python" src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54">
     <img alt="HTML" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white">
-    <img alt="HTML" src="https://img.shields.io/badge/flask-%23000.svg?logo=flask&logoColor=white">
-    <img alt="HTML" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white">
-    <img alt="HTML" src="https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white">
-    <img alt="HTML" src="https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white">
-    <img alt="HTML" src="https://img.shields.io/badge/FastAPI-009688?logo=FastAPI&logoColor=white">
     <img alt="HTML" src="./assets/transformers.svg">
-    <img alt="HTML" src="./assets/langchain.svg">
+    <img alt="HTML" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white">
+
+
+</p>
+
+<p>
+  <img alt="HTML" src="./assets/langchain.svg">
     <img alt="HTML" src="./assets/llamaindex.svg">
+    <img alt="HTML" src="https://img.shields.io/badge/flask-%23000.svg?logo=flask&logoColor=white">
+    <img alt="HTML" src="https://img.shields.io/badge/FastAPI-009688?logo=FastAPI&logoColor=white">
+    <img alt="HTML" src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white">
 
 </p>
 
