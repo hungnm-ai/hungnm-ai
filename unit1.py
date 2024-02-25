@@ -1,8 +1,8 @@
 input_str = 'Hello "world'
-Input_str_reversed =      ""
+Input_str_reversed = ""
 print("len(input_str): ", len(input_str))
 
-for idx in range(len(input_str) - 1, -1, -1):# start, end, step
+for idx in range(len(input_str) - 1, -1, -1):  # start, end, step
     print("idx: ", idx)
     char = input_str[idx]
     Input_str_reversed += char
