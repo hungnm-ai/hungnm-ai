@@ -11,5 +11,6 @@ print(Input_str_reversed)
 for idx in range(10, 20, 2):
     print("idx: ", 10)
 print(
-    "This is a very long line of code that exceeds the maximum line length specified by flake8, and therefore would generate a warning."
+    "This is a very long line of code that exceeds the maximum line length specified by flake8, "
+    "and therefore would generate a warning."
 )
